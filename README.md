@@ -1,2 +1,3 @@
 # gameShowApp6
  Creating a "Wheel of Fortune"-like game 
+In this game, players try to guess a random phrase by clicking on letters. If the player has guessed a letter correctly, that letter will appear in the appropriate place in the phrase. The player can keep choosing letters until they have made five incorrect guesses and then the player will loses the game. The player wins if they correctly guess the phrase before they have chosen five incorrect letters. This game is to fulfill my 6th Team Treehouse project.  
